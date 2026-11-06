@@ -1,0 +1,1 @@
+Moodboard, Farbpalette, Typografie, Logo-Idee.... noch zu befüllen von Noah
