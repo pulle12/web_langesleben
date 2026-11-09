@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { hero, downloads, videos, diverse_uebungen } from "../content/home.js";
+import Gesundheitsrechner from "../features/gesundheitsrechner/Gesundheitsrechner.jsx";
 import styles from "./Home.module.css";
 
 const videoCategories = [
@@ -43,6 +44,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <Gesundheitsrechner />
 
       <section id="downloads" className="container section">
         <p className="kicker">Zum Herunterladen</p>
